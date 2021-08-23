@@ -1,0 +1,1 @@
+# rpi-camera-snap-picture
